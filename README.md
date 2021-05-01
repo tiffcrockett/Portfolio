@@ -17,7 +17,7 @@ Size down your page and check it out!
 
 ## Application-Images
 
-![Screenshot of webpage](https://github.com/tiffcrockett/portfolio/blob/main/myprojects/src/components/Images/portfolioscrnsht.png?)
+![Screenshot of webpage](https://github.com/tiffcrockett/portfolio/blob/main/portfolioscrnsht.png?)
 
 
 ## Usage

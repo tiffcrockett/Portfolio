@@ -48,7 +48,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiffcrockett/portfolio.git"
+    "url": "git+https://github.com/tiffcrockett/portfolio"
   },
   "bugs": {
     "url": "https://github.com/tiffcrockett/portfolio/issues"

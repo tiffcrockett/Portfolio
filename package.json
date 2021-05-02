@@ -1,6 +1,6 @@
 {
-  "homepage": "https://tiffcrockett.github.io/portfolio",
-  "name": "portfolios",
+  "homepage": "https://tiffcrockett.github.io/portfolio/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -48,7 +48,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tiffcrockett/portfolio"
+    "url": "git+https://github.com/tiffcrockett/portfolio/"
   },
   "bugs": {
     "url": "https://github.com/tiffcrockett/portfolio/issues"

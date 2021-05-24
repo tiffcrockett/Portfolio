@@ -1,24 +1,4 @@
-# Portfolio 
-
-## Table of Contents
-* [Description](#description)
-* [Webpage-Images](#webpage-images)
-* [Usage](#usage)
-* [Technologies/Libraries-Used](#technologies-used)
-* [Deployed-Link](#deployed-link)
-* [Contact Information](#contact)
-
-
-## Description
-
-Thanks for taking a look at  my portfolio. I recently updated it using ReactJS. It is a single page application that is mobile-friendly and includes a scroll to top button.
-Size down your page and check it out! 
-
-
-## Application-Images
-
 ![Screenshot of webpage](https://github.com/tiffcrockett/portfolio/blob/main/portfolioscrnsht.png?)
-
 
 ## Usage
 
